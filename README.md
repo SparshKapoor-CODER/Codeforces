@@ -37,12 +37,6 @@ Codeforces/
 - **Learn problem-solving strategies**
 - **Enhance algorithmic knowledge**
 
----
-
-## 🚀 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=codeforces" alt="Tech Stack" />
-</p>
 
 ---
 
