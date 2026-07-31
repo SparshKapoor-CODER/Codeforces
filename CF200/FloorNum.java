@@ -1,0 +1,20 @@
+import java.util.*;
+public class FloorNum {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+
+        while (t-- > 0) {
+            int n = sc.nextInt();
+            int x = sc.nextInt();
+
+            if (n <= 2) {
+                System.out.println(1);
+            }
+            else {
+                int floor = 2 + (n - 3) / x;
+                System.out.println(floor);
+            }
+        }
+    }
+}
