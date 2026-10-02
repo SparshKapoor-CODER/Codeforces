@@ -1,69 +1,136 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0d1117&height=200&section=header&text=Codeforces&fontSize=50&fontColor=fff&animation=twinkling"/>
-
-# Codeforces
-### Solving Codeforces problems with ease
-
-[![Stars](https://img.shields.io/github/stars/SparshKapoor-CODER/Codeforces?style=for-the-badge&color=7C3AED)](https://github.com/SparshKapoor-CODER/Codeforces/stargazers)
-[![Forks](https://img.shields.io/github/forks/SparshKapoor-CODER/Codeforces?style=for-the-badge&color=58A6FF)](https://github.com/SparshKapoor-CODER/Codeforces/forks)
-[![Issues](https://img.shields.io/github/issues/SparshKapoor-CODER/Codeforces?style=for-the-badge&color=F59E0B)](https://github.com/SparshKapoor-CODER/Codeforces/issues)
-[![License](https://img.shields.io/github/license/SparshKapoor-CODER/Codeforces?style=for-the-badge&color=10B981)](https://github.com/SparshKapoor-CODER/Codeforces/blob/main/LICENSE)
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:5B7CFA,100:1EE3CF&height=220&section=header&text=Codeforces%20Java&fontSize=56&fontColor=ffffff&animation=blinking" alt="Codeforces Java banner" />
+  <br />
+  <h1>Codeforces Solutions Repository</h1>
 </div>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/Sparsh333">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8A70?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  <a href="https://github.com/SparshKapoor-CODER/Codeforces">
+    <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://github.com/SparshKapoor-CODER/Codeforces/stargazers">
+    <img src="https://img.shields.io/github/stars/SparshKapoor-CODER/Codeforces?style=for-the-badge" alt="Stars" />
+  </a>
+</p>
+
 ---
 
-## 📖 Overview
-This repository is for solving Codeforces problems. Its purpose is to help users learn and practice competitive programming. This project is for anyone interested in improving their coding skills.
+## About
+
+This repository contains my Codeforces problem solutions, primarily written in Java. It is organized by contest division and difficulty level so that I can practice, revise, and improve my competitive programming skills over time.
+
+The goal of this repo is simple: solve problems consistently, sharpen algorithmic thinking, and build a strong foundation in data structures, greedy techniques, graphs, DP, and implementation-based problem solving.
+
+> Codeforces Profile: [Sparsh333](https://codeforces.com/profile/Sparsh333)
 
 ---
 
-## 📂 Project Structure
+## Why this repository?
 
-```
+- Practice competitive programming regularly
+- Improve problem-solving and debugging skills
+- Learn and revisit different algorithmic patterns
+- Organize solutions by contest type and difficulty
+- Build a long-term Java-based CP archive
+
+---
+
+## Repository Structure
+
+```text
 Codeforces/
-│   ├── 📁 Div 4/
-│   ├── 📁 Div 3/
-│   ├── 📁 Div 2/
-│   ├── 📄 .gitignore
+├── CF200/
+├── Div 2/
+├── Div 3/
+├── Div 4/
+├── .gitignore
+├── README.md
+└── (additional problem solution files)
 ```
 
+### Main folders
+
+- `CF200/` — solutions from Codeforces Round 200 or related problems
+- `Div 2/` — Division 2 contests and problems
+- `Div 3/` — Division 3 contests and problems
+- `Div 4/` — Division 4 contests and problems
 
 ---
 
-## ✨ Features
-- **Practice competitive programming**
-- **Solve Codeforces problems**
-- **Improve coding skills**
-- **Learn problem-solving strategies**
-- **Enhance algorithmic knowledge**
+## Problem-solving focus
 
+This repository covers a wide range of competitive programming topics, including:
 
----
-
-
-
-## 👥 Contributors
-
-<a href="https://github.com/SparshKapoor-CODER/Codeforces/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SparshKapoor-CODER/Codeforces" />
-</a>
-
-
+- Implementation
+- Greedy algorithms
+- Binary search
+- Graph traversal and shortest path
+- Dynamic programming
+- Prefix sums and difference arrays
+- Sorting and combinatorics
+- Number theory and modular arithmetic
+- Data structures and simulation
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
+## How to use this repo
+
+1. Open the relevant contest folder.
+2. Find the problem you want to study.
+3. Read the logic and implementation in Java.
+4. Try solving it on your own before checking the solution.
+5. Use it as a reference for patterns, edge cases, and optimization ideas.
+
+---
+
+## Code snippets
+
+Most solutions are written in Java and follow a clear structure such as:
+
+```java
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws Exception {
+        FastScanner fs = new FastScanner();
+        // solution logic here
+    }
+}
+```
+
+---
+
+## Learning journey
+
+This repo reflects a continuous learning path in competitive programming:
+
+- Strengthening basic problem understanding
+- Improving speed and accuracy
+- Learning contest-style reasoning
+- Building intuition for edge cases
+- Preparing for higher-rated rounds
+
+---
+
+## Connect
+
+- Codeforces: [Sparsh333](https://codeforces.com/profile/Sparsh333)
+- GitHub: [SparshKapoor-CODER](https://github.com/SparshKapoor-CODER)
 
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Coding motivation" />
+  <br />
+  <p><strong>Keep coding, keep improving, and keep solving.</strong></p>
+</div>
 
 ---
 
-⭐ Star this repo if you like it!  
-Made with ❤️ by [SparshKapoor-CODER](https://github.com/SparshKapoor-CODER)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzZTA4ZDYwYmJmZDA0ZTMwYmFkMzY0ZDMwYmFkMzY0ZDMwYmFkMzYmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKVUn7iM8FMEU24/giphy.gif" width="100" />
-
-</div>
+<p align="center">
+  Made with ❤️ for competitive programming
+</p>
