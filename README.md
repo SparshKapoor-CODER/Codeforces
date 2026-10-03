@@ -75,6 +75,13 @@ A hand-curated list of **201 problems** across three tiers, each tagged by topic
 | 🔴 Hard | **0** | 40 | `░░░░░░░░░░░░░░░░░░░░░░` 0% |
 
 > 📌 *Progress as of October 2026. Update these numbers when you finish a batch.*
+>
+> 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Coding motivation" />
+  <br />
+  <p><strong>Keep coding, keep improving, and keep solving.</strong></p>
+</div>
 
 ---
 
