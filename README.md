@@ -132,16 +132,19 @@ java -cp "Div 3/1119" A < input.txt
 
 These are my own solutions, written while learning. If you spot a bug or a cleaner approach, feel free to open an issue or PR.
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B1E8A,100:0d1117&height=120&section=footer" alt=""/>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Coding motivation" />
   <br />
   <p><strong>Keep coding, keep improving, and keep solving.</strong></p>
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B1E8A,100:0d1117&height=120&section=footer" alt=""/>
+
+
+
 
 **Built by [Sparsh](https://github.com/SparshKapoor-CODER)** &nbsp;•&nbsp; [Codeforces: Sparsh333](https://codeforces.com/profile/Sparsh333)
 
