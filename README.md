@@ -25,7 +25,7 @@ Hi, I'm **Sparsh**. This repo is my personal Codeforces notebook: contest soluti
 | | |
 |---|---|
 | **Handle** | [`Sparsh333`](https://codeforces.com/profile/Sparsh333) |
-| **Platform** | codeforces.com |
+| **Platform** | [`Codeforces`](https://codeforces.com/) |
 | **Language** | Java |
 | **Focus** | Div 2 / Div 3 / Div 4, Educational |
 
